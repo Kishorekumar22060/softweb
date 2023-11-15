@@ -1105,13 +1105,14 @@ window.addEventListener('scroll',change);
 ## OUTPUT:
 ![image](https://github.com/Kishorekumar22060/softweb/assets/141472136/9a7b3daf-81ec-4a31-ace1-d8ce2929fd31)
 
-![282295211-5ce56b8f-d88e-4373-a601-92571d5c267e](https://github.com/Kishorekumar22060/softweb/assets/141472136/36856355-13cb-43c8-80c9-64a83cca38ff)
+![image](https://github.com/Kishorekumar22060/softweb/assets/141472136/6adc832c-fd58-4293-a259-7924efdca4df)
 
-![282295234-62378596-9561-4d40-857c-fa130fb04937](https://github.com/Kishorekumar22060/softweb/assets/141472136/78e094c9-445b-4dcd-a7f8-c3fd4d0fa62b)
+![image](https://github.com/Kishorekumar22060/softweb/assets/141472136/c1a00066-c918-40ab-b214-115de60446b5)
 
-![282295241-4d6f0e95-d8ee-43b1-8957-5f673dfb27b5](https://github.com/Kishorekumar22060/softweb/assets/141472136/7895dbc8-aeee-43ea-82e4-1b456cc4bbb2)
+![image](https://github.com/Kishorekumar22060/softweb/assets/141472136/f6986b72-c1fc-4e30-ab5c-392c512b7c41)
 
-![282295252-297fd72f-af01-44f1-ab05-55cb1a57b5ea](https://github.com/Kishorekumar22060/softweb/assets/141472136/f7be932e-4351-428a-a37e-086c05755b8b)
+![image](https://github.com/Kishorekumar22060/softweb/assets/141472136/e65d996b-9964-4e41-b2b8-2740d938fd5b)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
