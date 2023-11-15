@@ -1103,18 +1103,15 @@ function change() {
 window.addEventListener('scroll',change);
 ```
 ## OUTPUT:
-![code](https://github.com/Darkwebnew/softweb/assets/143114486/1e36ca30-a085-4ab1-8c74-c223332614af)
+![image](https://github.com/Kishorekumar22060/softweb/assets/141472136/9a7b3daf-81ec-4a31-ace1-d8ce2929fd31)
 
-![output1](https://github.com/Darkwebnew/softweb/assets/143114486/5ce56b8f-d88e-4373-a601-92571d5c267e)
+![282295211-5ce56b8f-d88e-4373-a601-92571d5c267e](https://github.com/Kishorekumar22060/softweb/assets/141472136/36856355-13cb-43c8-80c9-64a83cca38ff)
 
-![output2](https://github.com/Darkwebnew/softweb/assets/143114486/39f7bbab-c059-47ad-bc39-0da6261354eb)
+![282295234-62378596-9561-4d40-857c-fa130fb04937](https://github.com/Kishorekumar22060/softweb/assets/141472136/78e094c9-445b-4dcd-a7f8-c3fd4d0fa62b)
 
-![output3](https://github.com/Darkwebnew/softweb/assets/143114486/62378596-9561-4d40-857c-fa130fb04937)
+![282295241-4d6f0e95-d8ee-43b1-8957-5f673dfb27b5](https://github.com/Kishorekumar22060/softweb/assets/141472136/7895dbc8-aeee-43ea-82e4-1b456cc4bbb2)
 
-![output4](https://github.com/Darkwebnew/softweb/assets/143114486/4d6f0e95-d8ee-43b1-8957-5f673dfb27b5)
+![282295252-297fd72f-af01-44f1-ab05-55cb1a57b5ea](https://github.com/Kishorekumar22060/softweb/assets/141472136/f7be932e-4351-428a-a37e-086c05755b8b)
 
-![output5](https://github.com/Darkwebnew/softweb/assets/143114486/3f6dee23-7541-48ee-afb3-4fd3feb25ef8)
-
-![output6](https://github.com/Darkwebnew/softweb/assets/143114486/297fd72f-af01-44f1-ab05-55cb1a57b5ea)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
